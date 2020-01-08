@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>正一的Blog</title>
+  
+  <subtitle>Keep it real❤</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://lizhengyi.xyz/"/>
+  <updated>2020-01-08T12:15:33.043Z</updated>
+  <id>https://lizhengyi.xyz/</id>
+  
+  <author>
+    <name>正一</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>二零一九年终总结</title>
+    <link href="https://lizhengyi.xyz/2020/01/02/2019-conclusion/"/>
+    <id>https://lizhengyi.xyz/2020/01/02/2019-conclusion/</id>
+    <published>2020-01-02T04:32:09.000Z</published>
+    <updated>2020-01-08T12:15:33.043Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;div align=&quot;middle&quot;&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="随笔" scheme="https://lizhengyi.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="随笔" scheme="https://lizhengyi.xyz/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
